@@ -1,0 +1,31 @@
+SMAP
+UploadGalley_jsp.java
+JSP
+*S JSP
+*F
++ 0 UploadGalley.jsp
+adminView/UploadGalley.jsp
++ 1 header.jsp
+adminView/header.jsp
++ 2 footer.jsp
+adminView/footer.jsp
+*L
+5:53
+5#1,15:54
+19,311:68
+6#0,11:378
+17,3:390
+19,10:393
+29:403,3
+30,3:406
+33:409,3
+34,3:412
+37:415,3
+38,3:418
+41:421,3
+42,2:424
+44:426,3
+45,9:429
+5#2,57:438
+53#0,4:495
+*E

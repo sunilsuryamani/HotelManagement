@@ -1,0 +1,19 @@
+SMAP
+contactMessage_jsp.java
+JSP
+*S JSP
+*F
++ 0 contactMessage.jsp
+adminView/contactMessage.jsp
++ 1 header.jsp
+adminView/header.jsp
++ 2 footer.jsp
+adminView/footer.jsp
+*L
+5,2:50
+5#1,15:52
+19,311:66
+6#0,542:376
+5#2,57:918
+547#0,6:975
+*E
